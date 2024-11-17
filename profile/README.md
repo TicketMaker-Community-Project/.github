@@ -1,5 +1,7 @@
 # Welcome to TicketMaker
 
+![Application Screenshot]([images/screenshotmain.png](https://github.com/TicketMaker-Community-Project/TicketMaker/blob/dev/images/screenshotmain.png)
+
 ## About TicketMaker
 TicketMaker is a robust desktop application designed to streamline the process of creating and managing tickets for your Freshdesk help desk system. With an intuitive interface and seamless integration with Freshdesk, TicketMaker allows users to:
 
