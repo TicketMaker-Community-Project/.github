@@ -35,7 +35,7 @@ TicketMaker is a robust desktop application designed to streamline the process o
 We welcome contributions from the community! Whether it's reporting bugs, suggesting new features, or submitting code improvements, your input helps make TicketMaker better.
 
 ### How to Contribute
-1. Fork the repository at [https://github.com/TicketMaker/TicketMaker](https://github.com/TicketMaker-Community-Project/TicketMaker).
+1. Fork the repository at [https://github.com/TicketMaker-Community-Project/TicketMaker](https://github.com/TicketMaker-Community-Project/TicketMaker).
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request with a detailed description of your changes.
 
