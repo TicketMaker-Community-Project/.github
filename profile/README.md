@@ -22,7 +22,7 @@ TicketMaker is a robust desktop application designed to streamline the process o
 
 ## Getting Started
 ### Installation
-1. Download the latest release of the TicketMaker installer from the [Releases](https://github.com/TicketMaker/TicketMaker/releases) page.
+1. Download the latest release of the TicketMaker installer from the [Releases](https://github.com/TicketMaker-Community-Project/TicketMaker/releases) page.
 2. Run the installer and follow the on-screen instructions.
 3. Ensure Python 3.12 or later is installed before running the installer.
 
@@ -35,21 +35,21 @@ TicketMaker is a robust desktop application designed to streamline the process o
 We welcome contributions from the community! Whether it's reporting bugs, suggesting new features, or submitting code improvements, your input helps make TicketMaker better.
 
 ### How to Contribute
-1. Fork the repository at [https://github.com/TicketMaker/TicketMaker](https://github.com/TicketMaker/TicketMaker).
+1. Fork the repository at [https://github.com/TicketMaker/TicketMaker](https://github.com/TicketMaker-Community-Project/TicketMaker).
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request with a detailed description of your changes.
 
 ## Support
 For questions or support, please:
-- Check out our [Wiki](https://github.com/TicketMaker/TicketMaker/wiki) for detailed guides.
-- Submit an issue on the [Issues](https://github.com/TicketMaker/TicketMaker/issues) page.
+- Check out our [Wiki](https://github.com/TicketMaker-Community-Project/TicketMaker/wiki) for detailed guides.
+- Submit an issue on the [Issues](https://github.com/TicketMaker-Community-Project/TicketMaker/issues) page.
 
 ## License
-TicketMaker is licensed under the [MIT License](https://github.com/TicketMaker/TicketMaker/blob/main/LICENSE). You are free to use, modify, and distribute this project as long as proper credit is given.
+TicketMaker is licensed under the [MIT License](https://github.com/TicketMaker-Community-Project/TicketMaker/blob/main/LICENSE). You are free to use, modify, and distribute this project as long as proper credit is given.
 
 ## Contact
 - **Email**: [Your contact email]
-- **GitHub**: [https://github.com/TicketMaker](https://github.com/TicketMaker)
+- **GitHub**: [https://github.com/TicketMaker](https://github.com/TicketMaker-Community-Project)
 
 ---
 Thank you for using TicketMaker! Your feedback and contributions make this project thrive.
