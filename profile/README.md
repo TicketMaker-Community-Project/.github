@@ -49,7 +49,7 @@ TicketMaker is licensed under the [MIT License](https://github.com/TicketMaker-C
 
 ## Contact
 - **Email**: [Your contact email]
-- **GitHub**: [https://github.com/TicketMaker](https://github.com/TicketMaker-Community-Project)
+- **GitHub**: [https://github.com/TicketMaker-Community-Project](https://github.com/TicketMaker-Community-Project)
 
 ---
 Thank you for using TicketMaker! Your feedback and contributions make this project thrive.
