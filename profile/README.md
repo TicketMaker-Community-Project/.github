@@ -20,6 +20,7 @@ TicketMaker is a robust desktop application designed to streamline the process o
 ## System Requirements
 - **Operating System**: Windows 10 or later (64-bit).
 - **Python**: Python 3.12 or later must be installed on the system.
+  - **Note**: Python must be installed in the system context (`C:\Program Files\Python312`)
 - **Dependencies**: Installed automatically during the setup process.
 
 ## Getting Started
