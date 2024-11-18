@@ -46,6 +46,9 @@ For questions or support, please:
 - Check out our [Wiki](https://github.com/TicketMaker-Community-Project/TicketMaker/wiki) for detailed guides.
 - Submit an issue on the [Issues](https://github.com/TicketMaker-Community-Project/TicketMaker/issues) page.
 
+## Credits
+- **Support Ticket Icon**: <a href="https://www.flaticon.com/free-icons/support-ticket" title="support ticket icons">Support ticket icons created by syafii5758 - Flaticon</a>
+
 ## License
 TicketMaker is licensed under the [MIT License](https://github.com/TicketMaker-Community-Project/TicketMaker/blob/main/LICENSE). You are free to use, modify, and distribute this project as long as proper credit is given.
 
@@ -55,3 +58,4 @@ TicketMaker is licensed under the [MIT License](https://github.com/TicketMaker-C
 
 ---
 Thank you for using TicketMaker! Your feedback and contributions make this project thrive.
+
