@@ -1,5 +1,4 @@
 # Welcome to TicketMaker
-## Freshdesk Ticket Creator
 
 ![Application Screenshot](https://github.com/TicketMaker-Community-Project/TicketMaker/blob/dev/images/screenshotmain.png)
 
